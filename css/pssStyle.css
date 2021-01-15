@@ -1,0 +1,50 @@
+
+body{
+        background-color: dimgrey;
+}
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    font-size: 3em;
+}
+
+.out{
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: #f63
+}
+.myBtn{
+    padding: 20px 20px;
+    font-size: 30px;
+    margin-bottom: 20px;    
+}
+.pass{
+    width: 350px;
+    float: left;
+    font-size: 30px;
+    color: #ffff;
+    margin-left: 0;
+    padding: 20px;
+    background-color: #f63f;
+    
+}
+.in{
+     margin: 0;
+    padding:9px;
+   
+    float: right;
+    text-align: center;
+    background-color: #fff;
+    color: #f63;
+    
+}
+
+
+
+
+
+
+
